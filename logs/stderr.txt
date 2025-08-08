@@ -1,0 +1,2 @@
+Sandboxing disabled by user.
+js: Uncaught (in promise) TypeError: Cannot read properties of null (reading 'addEventListener')
